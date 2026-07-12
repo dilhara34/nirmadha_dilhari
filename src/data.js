@@ -3,7 +3,7 @@
 export const personalInfo = {
   name: "Nirmada Dilhari",
   title: "Full-Stack Developer & Tech-Entrepreneur",
-  about: "Highly motivated Full-Stack Software Developer and Tech-Entrepreneur with 1 year of hands-on application development experience. Proven capability in bridging technical architecture with commercial business execution by building, deploying, and optimizing digital presence.",
+  about: " Highly motivated Full-Stack Software Developer and Tech-Entrepreneur with 1 year of hands-on application development experience. Proven capability in bridging technical architecture with commercial business execution by single-handedly building, deploying, and optimizing e-commerce solutions. Specialized in modern frontend and mobile frameworks (React.js, React Native with Expo) and full-stack backend development using PHP and MySQL.",
   github: "https://github.com/Dil-24", // ඔයාගේ Github username එක මෙතනට දාන්න
   vercelStore: "https://niruwool.vercel.app",
   email: "nirmadadilhari20@gmail.com",
