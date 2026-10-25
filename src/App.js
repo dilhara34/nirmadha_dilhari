@@ -1,12 +1,11 @@
-// src/App.js
-
 import React, { useState } from 'react';
 import { personalInfo, projects } from './data';
+import './App.css'; // අලුත් CSS ගොනුව සම්බන්ධ කර ඇත
 
 function App() {
   const [filter, setFilter] = useState('All');
 
-  // Filter logic: Web ද Mobile ද කියලා වෙන් කරලා පෙන්වන්න
+  // Filter logic: All, Web App හෝ Mobile App අනුව වෙන් කර පෙන්වීම
   const filteredProjects = filter === 'All' 
     ? projects 
     : projects.filter(p => p.category === filter);
