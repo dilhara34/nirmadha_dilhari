@@ -19,9 +19,7 @@ function App() {
         <p className="about">{personalInfo.about}</p>
         
         <div className="links-container">
-          <a href={personalInfo.github} target="_blank" rel="noreferrer" className="btn btn-primary">
-            💻 GitHub Profile
-          </a>
+          
           <a href={personalInfo.vercelStore} target="_blank" rel="noreferrer" className="btn btn-accent">
             🧶 Visit Niruwool Live Store
           </a>
